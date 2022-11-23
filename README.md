@@ -1,5 +1,4 @@
 - 👋 Hi, I’m @AryAroids
-- 👀 I’m interested in growing Aroids plants
 - 🌱 I’m currently learning Java 17.0
 - 💞️ I’m looking to collaborate on many projects
 - 📫 How to reach me - via mail
